@@ -9,7 +9,7 @@
 
 - :credit_card: My full name is Jesús Armando Estrada Aramburo <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently work in Grupo Tuvanosa 
-- :computer: A Front End Developer Jr. 
+- :computer: A Front End Developer. 
 - :earth_asia: I'm living now in Culiacán, Sinaloa, México.
 - :sweat_smile: I am currently working as a Software Developer focused on web pages.
 - :top: I'm interested in coding, video games, and admiring landscapes.
