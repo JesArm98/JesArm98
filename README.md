@@ -1,54 +1,68 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/JesArm98?style=social"> &nbsp;&nbsp; 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JesArm98?style=social"> 
+![GitHub followers](https://img.shields.io/github/followers/JesArm98?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/JesArm98?style=social)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=45&center=true&vCenter=true&height=60&width=600&lines=Hello+World!+I'm+JesArm98!;Welcome+to+my+GitHub+Profile!" alt="Title">
-</div>
+<h1 align="center">¡Hi! 👋 I'm Jesús Armando Estrada Arámburo</h1>
+<h3 align="center">Front-End Developer from Culiacán, Sinaloa, Mexico</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JesArm98&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> About Me
-<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="350" align="right"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV1NjZnbHhnc2NycnViaGhsNTJ0YzByaDV0ZG4zMW9qaTkydzZqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="350" align="right"/>
 
-- 👨‍💻 **Name:** Jesús Armando Estrada Aramburo  
+- 👨‍💻 Passionate Front-End Developer specializing in JS environment.
 - 🏢 **Currently Working at:** Grupo Tuvanosa  
-- 💻 **Role:** Front-End Developer  
+- 💻 **Role:** Frontend Developer  
 - 🌎 **Location:** Culiacán, Sinaloa, México  
 - 🚀 **Interests:** Coding, Video Games, Nature & Landscapes  
-- ✨ **Motto:** _"It's never too late to start over, never too late to be happy"_  
+- ✨ **Motto:** _"Always learning and exploring new technologies to improve as a developer."_  
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Technologies & Skills  
 
-### 🔹 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+### 💻 Programming Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript)  
+![Java](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=openjdk)  
 
-### 🔹 Backend  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+---
 
-### 🔹 Database  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+### 🎨 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?style=for-the-badge&logo=css3)  
+![Material UI](https://img.shields.io/badge/Material--UI-Expert-purple?style=for-the-badge&logo=material-ui)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Expert-cyan?style=for-the-badge&logo=tailwind-css)  
+![React](https://img.shields.io/badge/React-Expert-lightblue?style=for-the-badge&logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-Expert-black?style=for-the-badge&logo=next.js)  
+![Astro](https://img.shields.io/badge/Astro-Expert-pink?style=for-the-badge&logo=astro)  
 
-### 🔹 Development Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black) 
+---
+
+### ⚙️ Backend Development  
+![Express](https://img.shields.io/badge/Express-Advanced-gray?style=for-the-badge&logo=express)  
+![NestJS](https://img.shields.io/badge/NestJS-Advanced-red?style=for-the-badge&logo=nestjs)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Intermediate-green?style=for-the-badge&logo=springboot)  
+
+---
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue?style=for-the-badge&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-green?style=for-the-badge&logo=mongodb)  
+![Firebase](https://img.shields.io/badge/Firebase-Advanced-yellow?style=for-the-badge&logo=firebase)  
+
+---
+
+### 🛠️ Development Tools  
+![Git](https://img.shields.io/badge/Git-Expert-red?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-Expert-black?style=for-the-badge&logo=github)  
+![VS Code](https://img.shields.io/badge/VS%20Code-Expert-blue?style=for-the-badge&logo=visual-studio-code)  
+![Figma](https://img.shields.io/badge/Figma-Expert-pink?style=for-the-badge&logo=figma)  
+![Postman](https://img.shields.io/badge/Postman-Expert-orange?style=for-the-badge&logo=postman)  
+![Swagger](https://img.shields.io/badge/Swagger-Expert-green?style=for-the-badge&logo=swagger)  
 
 ---
 
