@@ -11,9 +11,9 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> About Me
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV1NjZnbHhnc2NycnViaGhsNTJ0YzByaDV0ZG4zMW9qaTkydzZqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="300" height="250" align="right"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV1NjZnbHhnc2NycnViaGhsNTJ0YzByaDV0ZG4zMW9qaTkydzZqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="250" height="250" align="right"/>
 
-- 👨‍💻 Passionate Front-End Developer specializing in JS environment.
+- 👨‍💻 Passionate Front-End Developer specializing in JS environment.  
 - 🏢 **Currently Working at:** Grupo Tuvanosa  
 - 💻 **Role:** Frontend Developer  
 - 🌎 **Location:** Culiacán, Sinaloa, México  
